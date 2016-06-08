@@ -64,7 +64,7 @@ Pando的目的是为了提供一套可应用于实际生产环境的的物联网
 
 * [micro-services](http://martinfowler.com/articles/microservices.html)
 * [12-factor apps](http://12factor.net/)
-* [GoLang](http://golang.org)
+* [Golang](http://golang.org)
 * [MQTT](http://mqtt.org/)
 * [Docker](http://www.docker.com/)
 * [MySQL](http://www.mysql.com/)
